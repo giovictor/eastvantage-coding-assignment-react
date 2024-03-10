@@ -6,7 +6,7 @@ User and role management system built using React + Vite.
 
 <a href="https://primereact.org/" target="_blank">PrimeReact</a> was used for UI components and styling.
 
-*Note: This is only the repository for the frontend. Please make sure to clone and use it together with the <a href="(https://github.com/giovictor/eastvantage-coding-assignment-laravel" target="_blank">User Management System API</a> to manage data and use the REST API endpoints in the application.*
+*Note: This is only the repository for the frontend. Please make sure to clone and use it together with the <a href="https://github.com/giovictor/eastvantage-coding-assignment-laravel" target="_blank">User Management System API</a> to manage data and use the REST API endpoints in the application.*
 
 ## Requirements
 * Node.js
