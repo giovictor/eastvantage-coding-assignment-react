@@ -54,7 +54,7 @@ const UserForm = () => {
                     setUserForm({
                         name: user.name,
                         email: user.email,
-                        roles: user.user_roles_id.split(',').map(id => Number(id))
+                        roles: user.user_roles_id ? user.user_roles_id.split(',').map(id => Number(id)) : []
                     })
                 })
                 .catch((error) => {
